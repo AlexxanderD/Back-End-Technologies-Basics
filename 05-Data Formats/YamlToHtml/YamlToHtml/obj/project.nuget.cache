@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "glXQbvjh0lKNABUZLp0JzOi1moETmQ0G9a7hSn53wVb/RadsLW9ZW4+TR0fJCeFKWvTo3wBLzG13RASoK35srw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\YamlToHtml\\YamlToHtml\\YamlToHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\yamldotnet\\13.7.1\\yamldotnet.13.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
