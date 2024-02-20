@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FC0960-C5B8-4008-86C9-7CCF304DD60F}|TestProject1\\MoviesLibraryAPI.IntegrationTests.XUnit.csproj|c:\\users\\acer\\desktop\\movieslibraryapi-testingprojectscreated-notimplementedtestsadded\\testproject1\\xunitintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FC0960-C5B8-4008-86C9-7CCF304DD60F}|TestProject1\\MoviesLibraryAPI.IntegrationTests.XUnit.csproj|solutionrelative:testproject1\\xunitintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6A3367-BBBF-4E88-86C1-D37FF9DFA81C}|MoviesLibraryAPI.Tests\\MoviesLibraryAPI.IntegrationTests.NUnit.csproj|c:\\users\\acer\\desktop\\movieslibraryapi-testingprojectscreated-notimplementedtestsadded\\movieslibraryapi.tests\\nunitintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6A3367-BBBF-4E88-86C1-D37FF9DFA81C}|MoviesLibraryAPI.Tests\\MoviesLibraryAPI.IntegrationTests.NUnit.csproj|solutionrelative:movieslibraryapi.tests\\nunitintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XUnitIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\\TestProject1\\XUnitIntegrationTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\XUnitIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\\TestProject1\\XUnitIntegrationTests.cs",
+              "RelativeToolTip": "TestProject1\\XUnitIntegrationTests.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAmwCcBAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T00:19:19.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NUnitIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\\MoviesLibraryAPI.Tests\\NUnitIntegrationTests.cs",
+              "RelativeDocumentMoniker": "MoviesLibraryAPI.Tests\\NUnitIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\MoviesLibraryAPI-TestingProjectsCreated-NotImplementedTestsAdded\\MoviesLibraryAPI.Tests\\NUnitIntegrationTests.cs",
+              "RelativeToolTip": "MoviesLibraryAPI.Tests\\NUnitIntegrationTests.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAgwCUBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:55:24.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
