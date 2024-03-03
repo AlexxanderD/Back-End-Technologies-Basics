@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\16- Unit Testing with Mocking\\GetGreeting\\GetGreeting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B95ED6B-C2D5-45EC-8937-A729FABA9502}|GetGreeting.csproj|c:\\users\\acer\\desktop\\16- unit testing with mocking\\getgreeting\\getgreeting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B95ED6B-C2D5-45EC-8937-A729FABA9502}|GetGreeting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B95ED6B-C2D5-45EC-8937-A729FABA9502}|GetGreeting.csproj|c:\\users\\acer\\desktop\\16- unit testing with mocking\\getgreeting\\getgreeting\\greetingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B95ED6B-C2D5-45EC-8937-A729FABA9502}|GetGreeting.csproj|solutionrelative:greetingprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreetingProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\16- Unit Testing with Mocking\\GetGreeting\\GetGreeting\\GreetingProvider.cs",
+              "RelativeDocumentMoniker": "GreetingProvider.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\16- Unit Testing with Mocking\\GetGreeting\\GetGreeting\\GreetingProvider.cs",
+              "RelativeToolTip": "GreetingProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:39:50.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\16- Unit Testing with Mocking\\GetGreeting\\GetGreeting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\16- Unit Testing with Mocking\\GetGreeting\\GetGreeting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:39:44.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
