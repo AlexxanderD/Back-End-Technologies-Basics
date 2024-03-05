@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+C:\Users\Acer\Desktop\19-Code Coverage\LibraryManagementSystem\LibraryManagementSystem\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll

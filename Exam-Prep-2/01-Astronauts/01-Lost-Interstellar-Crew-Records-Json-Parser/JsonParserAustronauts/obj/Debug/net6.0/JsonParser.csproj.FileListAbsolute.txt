@@ -1,0 +1,31 @@
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.exe
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\Datasets\Astronauts.json
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.dll
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.dll
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\Acer\Desktop\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\ref\JsonParser.dll
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.exe
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\Datasets\Astronauts.json
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.dll
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.sourcelink.json
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.dll
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Back-End Technologies Basics\Exam-Prep-2\01-Astronauts\01-Lost-Interstellar-Crew-Records-Json-Parser\JsonParserAustronauts\obj\Debug\net6.0\ref\JsonParser.dll
